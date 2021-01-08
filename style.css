@@ -175,6 +175,8 @@ main {
 @media (max-width: 805px) {
   body {
     padding-bottom: 32px;
+     overflow-x: hidden;
+    width: 100%;
   }
   .contentWrapper {
     width: 80vw;

@@ -226,6 +226,7 @@ main {
     outline: none;
   }
   .websiteMenu {
+    z-index: 5;
     width: 80vw;
     left: 5vw;
     top: 120px;

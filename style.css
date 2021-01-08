@@ -227,8 +227,7 @@ main {
   }
   .websiteMenu {
     z-index: 5;
-    width: 80vw;
-    left: 5vw;
+    width: 90vw;
     top: 120px;
     background-color: white;
     -webkit-box-shadow: -4px 8px 10px rgba(0, 0, 0, 0.1);

@@ -231,7 +231,6 @@ main {
     left: 5vw;
     top: 120px;
     background-color: white;
-    padding: 32px 24px;
     -webkit-box-shadow: -4px 8px 10px rgba(0, 0, 0, 0.1);
             box-shadow: -4px 8px 10px rgba(0, 0, 0, 0.1);
   }
@@ -250,6 +249,7 @@ main {
         -ms-flex-direction: column;
             flex-direction: column;
     margin: 0;
+        padding: 32px 24px;
   }
   ul li:not(:last-child) {
     margin: 0 0 20px 0;

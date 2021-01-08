@@ -179,7 +179,7 @@ main {
     width: 100%;
   }
   .contentWrapper {
-    width: 90vw;
+    overflow-x: hidden;
     margin: 0 auto;
   }
   main {
@@ -193,6 +193,12 @@ main {
   }
   header {
     padding: 48px 0;
+    margin: 0 auto;
+    width: 90vw;
+  }
+  .textSection{
+    margin: 0 auto;
+    width: 90vw;
   }
   .imageSection {
     width: 100%;
